@@ -9,12 +9,13 @@ script:
   - true
 archive: true
 
-cache: true
+#cache: true
 env:
  - secure: LI/dIIhopP0A2QnYkWJYVutLxmgVgvyNk4tZP9Je4GMkhWwAQTzO5JVJXFoIkAMQJYJK2wiPELznYONIFuwQ0d4UGXMlji4Lv68WUIC54z3PrzpJRS7wPzkmhoJTlmkoH60Kx1jI8PxXky/6+mEpsqWOf2PZC9UCbZnpddDgiR/wLBOkPMh3WUPkv1Atokb05rJWMSVw24xq61wiKAhkQNklwnT8wWx0l5tY3YrUcn7Ae2wCTTdxFROwgB2+rdD1oea4Fv5Dt2pYiNiysOqcRIX88pFRf9NiqwiaMoGNaGP6gjv3haZ77IceBBoVGSPXvsIan+8ok6pnjkazpu1W5w==
  
 after_script: echo $env1
 
+#pr
 notifications:
      email:
          recipients:
