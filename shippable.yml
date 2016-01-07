@@ -3,8 +3,8 @@ language: python
 build_image: vidyar/phpmongo:master.69.1
 
 python:
-  #- 3.4
-   - 2.7
+  - 3.4
+  # - 2.7
  #  - 3.3
 
 script:
@@ -34,3 +34,4 @@ notifications:
         pull_requests: true
         channels:  
            - "chat.freenode.net#testchannel"
+           - "chat.freenode.net#test-irc"
