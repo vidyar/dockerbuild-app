@@ -34,3 +34,5 @@ notifications:
         pull_requests: true
         channels:  
            - "chat.freenode.net#testchannel"
+
+#comment for PR
