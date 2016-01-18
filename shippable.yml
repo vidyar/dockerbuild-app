@@ -13,6 +13,7 @@ script:
 #archive: true
 before_script:
  - echo $test1
+ 
 #cache: true
 env:
  - secure: P1aYEA6N4bWJ8bOfSXW/lpnOVBojfDfo+h9xuFuYB9+mCn+HYwU/ucYQauEDSvHMvLVb/KipCY2qbDpyQgBbP6AdqHvQxZ/6sEsfQPYABh76E9aMK7+vEqrW9K5C0eavQIdTAjahvRMr+VTrQ6Z2XRrAC9iaDxYMjJiLgCjbwyEAGXOxjKevb8wraBcIeReS66aYzDDj8We2s0OxhXzuQS8dKPvmJ5p04k3MVU/9LX9aJj35FYiSoM9K7nnS470vJWT/64mHdWF/0I04rWlUAb+ppPVGEn/4OAE73XG8g9qKMKKlzFzf6kVmGdBSEbMMuJ65yN4i2nXseCjQJGzPwA==
