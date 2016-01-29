@@ -7,7 +7,9 @@ python:
   #- 3.4
    - 2.7
  #  - 3.3
-
+services:
+ - redis
+ 
 script:
   - true
 #archive: true
